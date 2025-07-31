@@ -1,2 +1,2 @@
 # IBM
-IBM all projects and files with projec pdf of the project. 
+IBM all projects and files with attached  pdf of the project. 
